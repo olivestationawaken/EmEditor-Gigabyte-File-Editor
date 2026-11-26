@@ -1,0 +1,23 @@
+{
+  "repo": "emeditor-gigabyte-file-editor",
+  "product": "EmEditor Gigabyte File Editor",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "emeditor-gigabyte-file-editor",
+    "emeditor-gigabyte",
+    "emeditor-gigabyte-editor",
+    "how-to-install-emeditor-gigabyte",
+    "how-to-setup-emeditor-gigabyte",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "emeditor-file"
+  ],
+  "site": "unaflore.co",
+  "product_title": "EmEditor Gigabyte File Editor"
+}
